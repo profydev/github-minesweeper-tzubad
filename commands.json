@@ -2,16 +2,8 @@
   "commands": [
     
     "clear A8",
-
-    "unflag F1",
-    "unflag G1",
-    "unflag H1",
-    "unflag D2",
-    "unflag C3",
-    "unflag C8",
-    "unflag E7",
-    "unflag H7",
     "clear E4",
-    "clear G4"
+    "clear G4",
+    "clear C6"
   ]
 }
