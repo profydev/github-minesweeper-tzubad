@@ -2,13 +2,15 @@
   "commands": [
     
     "clear A8",
-    "flag F1",
-    "flag G1",
-    "flag H1",
-    "flag D2",
-    "flag C3",
-    "flag C8",
-    "flag E7",
-    "flag H7"
+    "unflag F1",
+    "unflag G1",
+    "unflag H1",
+    "unflag D2",
+    "unflag C3",
+    "unflag C8",
+    "unflag E7",
+    "unflag H7",
+    "clear E4",
+    "clear G4"
   ]
 }
